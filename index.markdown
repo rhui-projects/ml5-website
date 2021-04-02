@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This website contains a repository of some of the projects I have been working on.

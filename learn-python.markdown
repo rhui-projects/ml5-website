@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Python3
+title: Learning Python
 permalink: /learning-python/
 ---
 

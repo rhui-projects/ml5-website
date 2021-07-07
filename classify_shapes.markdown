@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maths App
+title: Maths
 permalink: /mathsapp/
 ---
 

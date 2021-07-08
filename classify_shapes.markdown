@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Maths
+title: Maths App
 permalink: /mathsapp/
 ---
 
 <div>Teachable Machine Image Model</div>
+<script type="text/javascript" src="ml.js"> </script>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
-<script src="ml.js" type="text/javascript"> </script>

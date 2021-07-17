@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Last Day"
+date:   2021-07-09
+categories: personal
+---
+
+##### This is the last day before I move back home. I will be bringing back many pleasant memories and experiences. 
+
+![](/assets/first_week.jpg)
+
+##### Got to get back home soon for sister's wedding. Hopefully, covid won't cause any problems on my trip home. Any delays will probably lead to me missing this important event. Keeping my fingers crossed. 
+
+![](/assets/jez-timms-7bVMdNYzH_8-unsplash.jpg)

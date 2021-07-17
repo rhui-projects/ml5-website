@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is just a website containing my shenanigans.
+Welcome to the site! You will find several words of thanks (eventually).
+
+In the meantime, here are some [high quality cat videos](https://unsplash.com/s/photos/cats).

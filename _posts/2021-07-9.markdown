@@ -2,7 +2,7 @@
 layout: post
 title:  "Last Day"
 date:   2021-07-09
-categories: personal
+category: personal log
 ---
 
 ##### This is the last day before I move back home. I will be bringing back many pleasant memories and experiences. 
